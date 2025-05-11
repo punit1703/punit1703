@@ -13,7 +13,7 @@
 
 ###
 
-<h4 align="left">I'm Punit Patel<br><br>🔭 Currently working on Machine Learning and Python-based Backend Web Development<br>🧠 Open to collaborating on AI/ML and backend projects<br>🤝 Seeking mentorship in advanced ML and scalable web systems<br>🌱 Learning ML algorithms, model deployment, Django & Flask<br>💬 Ask me about Python, ML, APIs, or backend dev<br>🎓 Pursuing a Bachelor's in Computer Engineering<br>⚡ Fun fact: I love turning complex ideas into real-world tech solutions</h4>
+<h4 align="left">I'm Punit Patel<br><br>🔭 Currently working on Machine Learning and Python-based Backend Web Development<br>🧠 Open to collaborating on AI/ML and backend projects<br>🤝 Seeking mentorship in advanced ML and scalable web systems<br>🌱 Learning ML algorithms, model deployment, Django & Flask<br>🎓 Pursuing a Bachelor's in Computer Engineering<br>💬 Ask me about Python, ML, APIs, or backend dev<br>⚡ Fun fact: I love turning complex ideas into real-world tech solutions</h4>
 
 ###
 
